@@ -20,3 +20,4 @@
 16. 打包流程
 17. rxjava
 18. aop
+19. 第三方开源库的分析（fresco、okhttp、retrofit、eventbus、glide）
